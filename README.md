@@ -17,7 +17,7 @@ Body Mass Index Calculator, a multi screen app with simple functionality but ful
     Flutter pub get
     ```
 
-3. **Start the Server:**
+3. **Run:**
 
     ```bash
     Flutter run
